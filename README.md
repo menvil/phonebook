@@ -1,6 +1,6 @@
 Installation
 
-git clone git@github.com/menvil/phonebook.git
+git clone git@github.com:menvil/phonebook.git
 
 cd phonebook
 
